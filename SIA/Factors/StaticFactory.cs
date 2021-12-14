@@ -8,6 +8,10 @@ namespace ProgramaDeSIA.Factors
     {
         private static readonly Random Random = new();
 
+        /// <summary>
+        /// Crea la lista con los Micro-factores de agua.
+        /// </summary>
+        /// <returns>La lista con los Micro-factores de agua.</returns>
         private static IEnumerable<Factor> WaterFactors()
         {
             return new List<Factor>
@@ -30,6 +34,10 @@ namespace ProgramaDeSIA.Factors
             };
         }
 
+        /// <summary>
+        /// Crea la lista con los Micro-factores de aire.
+        /// </summary>
+        /// <returns>La lista con los Micro-factores de aire.</returns>
         private static IEnumerable<Factor> AirFactors()
         {
             return new List<Factor>
@@ -42,6 +50,10 @@ namespace ProgramaDeSIA.Factors
             };
         }
 
+        /// <summary>
+        /// Crea la lista con los Micro-factores de suelo.
+        /// </summary>
+        /// <returns>La lista con los Micro-factores de suelo.</returns>
         private static IEnumerable<Factor> SoilFactors()
         {
             return new List<Factor>
@@ -52,6 +64,10 @@ namespace ProgramaDeSIA.Factors
             };
         }
 
+        /// <summary>
+        /// Crea la lista con los Micro-factores de flora.
+        /// </summary>
+        /// <returns>La lista con los Micro-factores de flora.</returns>
         private static IEnumerable<Factor> FloraFactors()
         {
             return new List<Factor>
@@ -63,6 +79,10 @@ namespace ProgramaDeSIA.Factors
             };
         }
 
+        /// <summary>
+        /// Crea la lista con los Micro-factores de fauna.
+        /// </summary>
+        /// <returns>La lista con los Micro-factores de fauna.</returns>
         private static IEnumerable<Factor> FaunaFactors()
         {
             return new List<Factor>
@@ -74,6 +94,15 @@ namespace ProgramaDeSIA.Factors
             };
         }
 
+        /// <summary>
+        /// Genera una lista en base al índice que recibe como parámetro.
+        /// 1 -> Agua
+        /// 2 -> Aire
+        /// 3 -> Suelo
+        /// 4 -> Flora
+        /// 5 -> Fauna
+        /// </summary>
+        /// <returns>La lista con los Micro-factores de interés.</returns>
         public static IEnumerable<Factor> GenerateFactorsOnDemand(int value)
         {
             return value switch
@@ -87,6 +116,10 @@ namespace ProgramaDeSIA.Factors
             };
         }
 
+        /// <summary>
+        /// Genera una lista con todos los factores incluidos, independiente de su tipo.
+        /// </summary>
+        /// <returns>La lista con todos los factores.</returns>
         public static IEnumerable<Factor> AllFactors()
         {
             return WaterFactors().Concat(AirFactors()).Concat(SoilFactors()).Concat(FloraFactors()).Concat(FaunaFactors());
