@@ -1,0 +1,17 @@
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\bin\Debug\net6.0\SIA.exe
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\bin\Debug\net6.0\SIA.deps.json
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\bin\Debug\net6.0\SIA.runtimeconfig.json
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\bin\Debug\net6.0\SIA.dll
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\bin\Debug\net6.0\ref\SIA.dll
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\bin\Debug\net6.0\SIA.pdb
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\bin\Debug\net6.0\MathNet.Numerics.dll
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\obj\Debug\net6.0\SIA.csproj.AssemblyReference.cache
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\obj\Debug\net6.0\SIA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\obj\Debug\net6.0\SIA.AssemblyInfoInputs.cache
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\obj\Debug\net6.0\SIA.AssemblyInfo.cs
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\obj\Debug\net6.0\SIA.csproj.CoreCompileInputs.cache
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\obj\Debug\net6.0\SIA.csproj.CopyComplete
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\obj\Debug\net6.0\SIA.dll
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\obj\Debug\net6.0\ref\SIA.dll
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\obj\Debug\net6.0\SIA.pdb
+D:\Coding\[C# Projects]\ProgramaDeSIA\ProgramaDeSIA\SIA\obj\Debug\net6.0\SIA.genruntimeconfig.cache

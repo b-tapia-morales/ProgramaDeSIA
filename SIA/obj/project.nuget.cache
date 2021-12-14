@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rB/RpPpKD6X9M7FsWg4ZMecPBNt1nrBP2XpyzAjyQYCuvn+LtscSkJmKAboyj3USOJrepvISzBib8vqVved9Nw==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\[C# Projects]\\ProgramaDeSIA\\ProgramaDeSIA\\SIA\\SIA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Peros\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
