@@ -68,7 +68,7 @@ namespace ProgramaDeSIA.Factors
         /// elementos presentes en lista.
         /// </summary>
         /// <param name="factors">Los Micro-factores</param>
-        /// <param name="multiplier">El peso asociado al Nivel de Incidencia</param>
+        /// <param name="multiplier">El Nivel de deterioro asociado al Nivel de Incidencia en cuestión</param>
         /// <returns>El nivel de deterioro</returns>
         private static double FilteredCalculation(IEnumerable<Factor> factors, double multiplier)
         {
